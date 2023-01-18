@@ -36,3 +36,6 @@ The main questions are:
   2. subquery.
   3. aggregate functions.
   4. window functions.
+  5. Database, table creation.
+  6. Data type constraint.
+  7. DATETIME functions.
